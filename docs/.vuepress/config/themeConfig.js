@@ -6,11 +6,11 @@ module.exports = {
   nav,
   sidebarDepth: 2,
   logo: "/img/logo.svg",
-  repo: "baomidou/mybatis-plus",
+  repo: "969025903/Assistant",
   searchMaxSuggestions: 10,
   lastUpdated: "上次更新",
 
-  docsRepo: "baomidou/mybatis-plus-doc",
+  docsRepo: "969025903/Assistant-Doc",
   docsDir: "docs",
   docsBranch: "master",
   editLinks: true,
@@ -28,8 +28,8 @@ module.exports = {
   archive: true,
 
   author: {
-    name: "Team Baomidou",
-    href: "https://github.com/baomidou"
+    name: "Genius",
+    href: "https://github.com/969025903"
   },
 
   social: {
@@ -37,17 +37,17 @@ module.exports = {
       {
         iconClass: "icon-github",
         title: "GitHub",
-        link: "https://github.com/baomidou"
+        link: "https://github.com/969025903"
       },
       {
         iconClass: "icon-gitee",
         title: "Gitee",
-        link: "https://gitee.com/baomidou"
+        link: "https://gitee.com/sbg-genius"
       },
       {
         iconClass: "icon-youjian",
         title: "发邮件",
-        link: "mailto:koyangslash@gmail.com"
+        link: "mailto:geniusssbg@gmail.com"
       }
     ]
   },
@@ -55,7 +55,7 @@ module.exports = {
   footer: {
     createYear: 2016,
     copyrightInfo: [
-      '<a href="http://baomidou.com" target="_blank" style="font-weight:bold">Team Baomidou</a>',
+      '<a href="https://969025903.github.io/" target="_blank" style="font-weight:bold">TimeMachine Lab</a>',
       ' | ',
       'Sponsored by <a href="https://www.jetbrains.com" target="_blank" style="font-weight:bold">JetBrains</a>',
       ' | ',
@@ -65,7 +65,7 @@ module.exports = {
       ' | ',
       '<a href="https://dyang.top/" target="_blank" style="font-weight:bold">D.Yang</a>',
       ' | ',
-      '<a href="https://blog.nancheung.com/" target="_blank" style="font-weight:bold">NanCheung</a>', 
+      '<a href="https://blog.nancheung.com/" target="_blank" style="font-weight:bold">NanCheung</a>',
       ' | ',
       '<a href="http://apidocs.cn/blog/" target="_blank" style="font-weight:bold">apidocsBlog</a>',
       '</p>'
