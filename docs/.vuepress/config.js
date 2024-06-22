@@ -6,7 +6,7 @@ module.exports = {
   theme: "vdoing",
   title: "Assistant",
   description: 'Assistant 官方文档',
-  base: "/",
+  base: "/assistant-docs/",
   markdown: {
     lineNumbers: true
   },

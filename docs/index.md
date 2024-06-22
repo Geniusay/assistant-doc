@@ -39,21 +39,16 @@ postList: none
 
 ### 🤡开发人员
 
-[Genius](https://github.com/969025903)
+[Genius](https://github.com/geniusay)
 
 ### 当前最新版本
 
-```xml
-<dependency>
-    <groupId>io.github.969025903</groupId>
-    <artifactId>assistant</artifactId>
-    <version>1.0.5</version>
-</dependency>
-```
+<<< @/docs/.vuepress/Version.md
 
 ### TML生态圈
 
-- [Assistant](https://github.com/969025903/Assistant) - 一款后端开发小助手，快速生成代码，快速完成业务。
+- [Assistant](https://github.com/geniusay/Assistant) - 一款后端开发小助手，快速生成代码，快速完成业务。
+- [ChopperBot](https://github.com/geniusay/ChopperBot) - 全自动AI剪辑插件机器人。
 
 ### 代码托管
 
@@ -63,9 +58,9 @@ postList: none
 
 欢迎各路好汉一起来参与完善 Assistant，我们期待你的 PR！
 
-- 贡献代码：代码地址 [MyBatis-Plus](https://github.com/baomidou/mybatis-plus) ，欢迎提交 Issue 或者 Pull Requests
-- 维护文档：文档地址 [MyBatis-Plus-Doc](https://github.com/baomidou/mybatis-plus-doc) ，欢迎参与翻译和修订
+- 贡献代码：代码地址 [Assistant](https://github.com/geniusay/Assistant) ，欢迎提交 Issue 或者 Pull Requests
+- 维护文档：文档地址 [Assistant-Doc](https://github.com/geniusay/Assistant-Doc) ，欢迎参与翻译和修订
 
 
 ### 友情链接
-- [genius blog](https://969025903.github.io/)
+- [genius blog](https://geniusay.github.io/)
